@@ -5,7 +5,7 @@ import gereja3 from "../../img/gereja3.jpg";
 import gerejaDepan from "../../img/gereja-depan.jpg";
 import kebaktian from "../../img/kebaktian.jpg";
 import kebaktian2 from "../../img/kebaktian2.jpg";
-import luarGereja from "../../img/luarGereja.jpg";
+import luarGereja from "../../img/luargereja.jpg";
 import gambar4 from "../../img/gambar4.jpg";
 import dalamGereja from "../../img/dalamgereja.jpg";
 import kebaktian4 from "../../img/kebaktian3.jpg";
